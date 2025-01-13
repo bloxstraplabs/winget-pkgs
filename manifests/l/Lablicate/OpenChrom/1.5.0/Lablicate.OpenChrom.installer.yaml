@@ -5,7 +5,7 @@ InstallerLocale: en-US
 Installers:
 - InstallerUrl: https://products.lablicate.com/openchrom/1.5.0/OpenChrom_1.5.0_setup_x64.exe
   Architecture: x64
-  InstallerSha256: d9ef8345b1d9c0a44901c2f60bb65b94c0b2d19d2c762a2f427a7d421cfd3d84
+  InstallerSha256: 31e3b47a94e5cedf3455131e11a212819fc2d320a88ac9303ae3c04d28e3fc91
 ManifestType: installer
 ManifestVersion: 1.6.0
 UpgradeBehavior: uninstallPrevious
