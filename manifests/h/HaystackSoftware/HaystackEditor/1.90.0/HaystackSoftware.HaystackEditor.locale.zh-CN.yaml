@@ -1,5 +1,5 @@
-# Automatically updated by the winget bot at 2024/Oct/11
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.6.0.schema.json
+# Created with YamlCreate.ps1 Dumplings Mod
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.9.0.schema.json
 
 PackageIdentifier: HaystackSoftware.HaystackEditor
 PackageVersion: 1.90.0
@@ -24,4 +24,4 @@ Documentations:
 - DocumentLabel: 常见问题
   DocumentUrl: https://haystackeditor.com/#faq
 ManifestType: locale
-ManifestVersion: 1.6.0
+ManifestVersion: 1.9.0

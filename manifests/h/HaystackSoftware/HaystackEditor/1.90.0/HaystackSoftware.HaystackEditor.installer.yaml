@@ -1,5 +1,5 @@
-# Automatically updated by the winget bot at 2024/Oct/11
-# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.6.0.schema.json
+# Created with YamlCreate.ps1 Dumplings Mod
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.9.0.schema.json
 
 PackageIdentifier: HaystackSoftware.HaystackEditor
 PackageVersion: 1.90.0
@@ -151,7 +151,7 @@ FileExtensions:
 - zsh
 Installers:
 - Architecture: x64
-  InstallerUrl: https://d2dv27o1k99orf.cloudfront.net/windows-installer/HaystackEditorSetup-0.19.1.exe
-  InstallerSha256: F281381993FEBE96BDFB4D82933A2B0F4344B50EACFF6B8295ADEAC0D87E7CA3
+  InstallerUrl: https://d2dv27o1k99orf.cloudfront.net/windows-installer/HaystackEditorSetup-0.20.2.exe
+  InstallerSha256: 3C1510024D15E9A046A0F9D3D187E1985E3D68ED4F9055A6BE5970556E864318
 ManifestType: installer
-ManifestVersion: 1.6.0
+ManifestVersion: 1.9.0
