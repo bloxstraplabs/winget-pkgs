@@ -1,0 +1,41 @@
+# Created with YamlCreate.ps1 Dumplings Mod
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.locale.1.9.0.schema.json
+
+PackageIdentifier: Waytech.CloudDrive2
+PackageVersion: "1.0"
+PackageLocale: zh-CN
+Publisher: Waytech Inc.
+PublisherUrl: https://www.clouddrive2.com/
+PublisherSupportUrl: https://www.clouddrive2.com/help.html
+PrivacyUrl: https://www.clouddrive2.com/eula.html
+Author: Waytech Inc.
+PackageName: CloudDrive2
+PackageUrl: https://www.clouddrive2.com/download.html
+License: 专有软件
+LicenseUrl: https://www.clouddrive2.com/eula.html
+Copyright: © 2024 CloudDrive. All rights reserved.
+CopyrightUrl: https://www.clouddrive2.com/eula.html
+ShortDescription: CloudDrive 是一个强大的多云盘管理工具，为用户提供包含云盘本地挂载的一站式的多云盘解决方案。
+Description: |-
+  CloudDrive 是一个全方位的云存储管理平台，旨在无缝集成多个云存储服务，将它们统一整合到一个界面中。
+  使用 CloudDrive，您可以轻松管理和访问所有云存储服务，无需在不同的应用程序和界面之间来回切换。
+  CloudDrive 最引人注目的特点是其能够将多个云存储服务挂载为本地磁盘，直接访问文件而无需预先下载。想象一下，您可以将云存储服务当作本地文件系统的一部分来使用，带来的便利性不言而喻。
+  但这还不是全部 - CloudDrive 还提供了高级功能，如快速的云端文件传输、实时的云文件通知和应用级别的权限控制。无论您是高级用户还是普通云存储用户，CloudDrive 都能以卓越的效率和易用性让您充分发挥云存储资源的潜力。
+Tags:
+- 共享
+- 分享
+- 发送
+- 文件
+- 服务器
+ReleaseNotes: |-
+  1. 增加跨网盘移动功能：在原有跨网盘复制的基础上，增加跨网盘移动功能，去掉 web 界面的复制按钮，点击移动/复制按钮，选择目的文件夹后可选择是移动还是复制，跨网盘移动将会在全部文件上传成功后删除源网盘的文件和目录。
+  2. 系统任务管理增加复制任务管理，显示正在进行的跨网盘复制或者移动任务的状态和进度，可以暂停或取消跨网盘复制/移动任务，在扫描源网盘过程中出现错误也会有相应错误信息显示
+  3. 增加修改账号邮箱功能，可以在 web 界面的系统设置中修改账号邮箱，要求修改后的邮箱没有注册过 CloudDrive2 账号
+  4. 增加对 Windows Arm64 系统的原生支持，不再支持 Windows 7 系统
+  5. 修复 115 被风控后正在进行的上传任务可能会一直卡住的问题
+  6. 修复本地文件夹内部复制功能不支持复制文件夹的问题
+  7. 其它 bug 修复和性能改进
+ReleaseNotesUrl: https://github.com/cloud-fs/cloud-fs.github.io/releases/tag/v0.8.7
+PurchaseUrl: https://www.clouddrive2.com/pricing.html
+ManifestType: locale
+ManifestVersion: 1.9.0

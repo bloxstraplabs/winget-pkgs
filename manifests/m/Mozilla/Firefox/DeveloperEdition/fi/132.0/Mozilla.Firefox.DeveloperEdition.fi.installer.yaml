@@ -24,19 +24,19 @@ FileExtensions:
 - webp
 - xht
 - xhtml
-ReleaseDate: 2024-10-14
+ReleaseDate: 2024-10-18
 Installers:
 - Architecture: x86
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win32/fi/Firefox%20Setup%20132.0b7.exe
-  InstallerSha256: CDB816444E9DA2D953D2601C91B5D4CF532BB4186716D6B6B9E6F045E9EADFCC
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/132.0b9/win32/fi/Firefox%20Setup%20132.0b9.exe
+  InstallerSha256: 2572832EA855C2189C1CB342850250AD9F3A62EAB33EA60430C749BF10278633
   ProductCode: Firefox Developer Edition 132.0 (x86 fi)
 - Architecture: x64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win64/fi/Firefox%20Setup%20132.0b7.exe
-  InstallerSha256: BFFB09CF8E8582E363D8E934A59DEE447D94F7800999DCFE08C1CF7AFC0154E3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/132.0b9/win64/fi/Firefox%20Setup%20132.0b9.exe
+  InstallerSha256: 5BD4916F309CC2D7E7841DE3D3041DD886BE72EA508481BFF4D69A538A73E209
   ProductCode: Firefox Developer Edition 132.0 (x64 fi)
 - Architecture: arm64
-  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/firefox/releases/132.0b7/win64-aarch64/fi/Firefox%20Setup%20132.0b7.exe
-  InstallerSha256: 8EFA953E1F88A16158369462DCA2A187CAC16CF0CEB3F604BD767D14AD2876E3
+  InstallerUrl: https://download-installer.cdn.mozilla.net/pub/devedition/releases/132.0b9/win64-aarch64/fi/Firefox%20Setup%20132.0b9.exe
+  InstallerSha256: 6B4A61BCB2B3282F076EFEC71C9954DB604D2C8848CF9476CE7AAD19F2B70DFC
   ProductCode: Firefox Developer Edition 132.0 (arm64 fi)
 ManifestType: installer
 ManifestVersion: 1.6.0
